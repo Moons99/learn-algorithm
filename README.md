@@ -14,3 +14,7 @@
 
 ## Array
 [15. 三数之和(threeSum)](https://leetcode.cn/problems/3sum/)
+
+## 回溯和递归
+[46. 全排列](https://leetcode.cn/problems/permutations/)  
+[79. 单词搜索](https://leetcode.cn/problems/word-search/)
