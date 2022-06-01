@@ -7,7 +7,6 @@
 ~       取反      xxx       反转操作数的比特位，即 0 变成 1，1 变成 0。
 `>>`    右移      除以2      将 a 的二进制表示向右移 b (< 32) 位，丢弃被移出的位。
 `<<`    左移      乘以2     	将 a 的二进制形式向左移 b (< 32) 比特位，右边用 0 填充。
-
 ```
 
 ## 数据结构
@@ -31,8 +30,17 @@
 <details>
   <summary>链表</summary>
 
+* 19.删除链表的倒数第N个结点
+* 21.合并两个有序链表
+* 92.反转链表-ii
+* [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/)
+* [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)
+* [146.lru-缓存](https://leetcode.cn/problems/lru-cache/)
+* [160.相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)
 * [203. 移除链表元素（removeElements）](https://leetcode.cn/problems/remove-linked-list-elements/)
-* [141. 环形链表（hasCycle）](https://leetcode.cn/problems/linked-list-cycle/)
+* 206.反转链表
+* [234.回文链表](https://leetcode.cn/problems/palindrome-linked-list/)
+* [876.链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/submissions/)
 </details>
 
 <details>
